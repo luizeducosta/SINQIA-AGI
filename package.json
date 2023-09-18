@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  },
+  "scripts": {
+    "cy:test": "cypress run --record --key d19e9a93-920d-4d71-9b08-11f534b9ffcc"
+  }
+}
